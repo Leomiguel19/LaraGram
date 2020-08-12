@@ -1,4 +1,4 @@
-*Para iniciar el proyecto tienes que clonarlo en tu pc \n
+*Para iniciar el proyecto tienes que clonarlo en tu pc 
 *Luego de ello añadirlo a la carpeta correspondiente de tu gestor, ejemplo: 
     si usas Xammpp -> htdocs
     si usas WampServer -> www
