@@ -3,7 +3,7 @@ LaraGram es una aplicación basada en Instagram, que permite a sus usuarios comp
 
 
 
-! [texto alternativo] https://github.com/Leomiguel19/LaraGram/blob/master/public/img/bg-01.jpg "Texto del título del logotipo 2"
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/bg-01.jpg"/>
 
 ## Construido con 🛠️
 
