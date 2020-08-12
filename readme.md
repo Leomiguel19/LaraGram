@@ -3,7 +3,14 @@ LaraGram es una aplicación basada en Instagram, que permite a sus usuarios comp
 
 
 
-<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/bg-01.jpg"/>
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/home.PNG"/>
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/registro.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/inicio.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/favoritos.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/buscar.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/subir-imagen.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/perfil.PNG" />
+<img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/config.PNG" />
 
 ## Construido con 🛠️
 
