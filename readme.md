@@ -1,8 +1,7 @@
 # LaraGram
 LaraGram es una aplicación basada en Instagram, que permite a sus usuarios compartir y ver fotos de los diversos usuarios en la misma, ademas de poder darle "Like" y comentar, y algunas otras funciones.
 
-
-
+## Capturas del programa
 <img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/home.PNG"/>
 <img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/registro.PNG" />
 <img src="https://github.com/Leomiguel19/LaraGram/blob/master/public/img/capturas/inicio.PNG" />
