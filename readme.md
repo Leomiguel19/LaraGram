@@ -6,10 +6,12 @@ LaraGram es una aplicación basada en Instagram, que permite a sus usuarios comp
 _Las herramientas utilizadas para construir este proyecto fueron:_
 
 * [PHP]
-* [Laravel]- El framework web utilizado
+* [Laravel]
 * [HTML]
 * [CSS]
 * [JavaScript]
+* [JQuery]
+* [Ajax]
 
 *Para iniciar el proyecto tienes que clonarlo en tu pc 
 *Luego de ello añadirlo a la carpeta correspondiente de tu gestor, ejemplo: 
